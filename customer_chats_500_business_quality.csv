@@ -1,0 +1,501 @@
+chat_id,message,expected_sentiment
+1,The product arrived damaged and unusable.,Negative
+2,I have a question regarding my account.,Neutral
+3,My order has been delayed for over a week and nobody is responding.,Negative
+4,The product quality is disappointing.,Negative
+5,My order has been delayed for over a week and nobody is responding.,Negative
+6,The tracking information is incorrect.,Negative
+7,The refund process was smooth and fast.,Positive
+8,I received the wrong item in my package.,Negative
+9,Please confirm whether my order was processed.,Neutral
+10,My order has been delayed for over a week and nobody is responding.,Negative
+11,The delivery was much later than promised.,Negative
+12,My order has been delayed for over a week and nobody is responding.,Negative
+13,I requested a refund but have not received any update.,Negative
+14,My order has been delayed for over a week and nobody is responding.,Negative
+15,I received the wrong item in my package.,Negative
+16,Support resolved my issue within minutes.,Positive
+17,Excellent customer service and quick resolution.,Positive
+18,When will my order be shipped?,Neutral
+19,The product exceeded my expectations.,Positive
+20,I am frustrated with the slow response from support.,Negative
+21,Everything worked perfectly from purchase to delivery.,Positive
+22,When will my order be shipped?,Neutral
+23,The product quality is disappointing.,Negative
+24,Thank you for the outstanding support.,Positive
+25,Everything worked perfectly from purchase to delivery.,Positive
+26,I need clarification about the warranty.,Neutral
+27,Great communication throughout the delivery process.,Positive
+28,My order has been delayed for over a week and nobody is responding.,Negative
+29,Please explain your refund policy.,Neutral
+30,The delivery arrived earlier than expected.,Positive
+31,I have a question regarding my account.,Neutral
+32,The tracking information is incorrect.,Negative
+33,The delivery arrived earlier than expected.,Positive
+34,Great communication throughout the delivery process.,Positive
+35,The ordering experience was simple and convenient.,Positive
+36,I am frustrated with the slow response from support.,Negative
+37,The tracking information is incorrect.,Negative
+38,The tracking information is incorrect.,Negative
+39,Can you check the tracking details for my package?,Neutral
+40,Excellent customer service and quick resolution.,Positive
+41,The product exceeded my expectations.,Positive
+42,What payment methods do you accept?,Neutral
+43,I am very happy with the product quality.,Positive
+44,The product quality is disappointing.,Negative
+45,The product exceeded my expectations.,Positive
+46,I requested a refund but have not received any update.,Negative
+47,Excellent customer service and quick resolution.,Positive
+48,The tracking information is incorrect.,Negative
+49,Great communication throughout the delivery process.,Positive
+50,Excellent customer service and quick resolution.,Positive
+51,The product arrived damaged and unusable.,Negative
+52,The delivery arrived earlier than expected.,Positive
+53,My order has been delayed for over a week and nobody is responding.,Negative
+54,Can you check the tracking details for my package?,Neutral
+55,I received the wrong item in my package.,Negative
+56,The tracking information is incorrect.,Negative
+57,The delivery was much later than promised.,Negative
+58,The product quality is disappointing.,Negative
+59,The tracking information is incorrect.,Negative
+60,I requested a refund but have not received any update.,Negative
+61,Can you check the tracking details for my package?,Neutral
+62,I requested a refund but have not received any update.,Negative
+63,Payment failed several times during checkout.,Negative
+64,Excellent customer service and quick resolution.,Positive
+65,Can you check the tracking details for my package?,Neutral
+66,I am very happy with the product quality.,Positive
+67,I have a question regarding my account.,Neutral
+68,Can you check the tracking details for my package?,Neutral
+69,The product quality is disappointing.,Negative
+70,How can I contact customer support?,Neutral
+71,I requested a refund but have not received any update.,Negative
+72,Can you check the tracking details for my package?,Neutral
+73,I am very happy with the product quality.,Positive
+74,Excellent customer service and quick resolution.,Positive
+75,The delivery was much later than promised.,Negative
+76,My order has been delayed for over a week and nobody is responding.,Negative
+77,The tracking information is incorrect.,Negative
+78,How can I contact customer support?,Neutral
+79,The ordering experience was simple and convenient.,Positive
+80,Thank you for the outstanding support.,Positive
+81,The refund process was smooth and fast.,Positive
+82,When will my order be shipped?,Neutral
+83,The product quality is disappointing.,Negative
+84,The tracking information is incorrect.,Negative
+85,My order has been delayed for over a week and nobody is responding.,Negative
+86,I would like more information about the product.,Neutral
+87,How can I contact customer support?,Neutral
+88,My order has been delayed for over a week and nobody is responding.,Negative
+89,I am frustrated with the slow response from support.,Negative
+90,I am frustrated with the slow response from support.,Negative
+91,The tracking information is incorrect.,Negative
+92,I am very happy with the product quality.,Positive
+93,How can I contact customer support?,Neutral
+94,The delivery was much later than promised.,Negative
+95,Great communication throughout the delivery process.,Positive
+96,I have a question regarding my account.,Neutral
+97,Everything worked perfectly from purchase to delivery.,Positive
+98,When will my order be shipped?,Neutral
+99,Payment failed several times during checkout.,Negative
+100,Please explain your refund policy.,Neutral
+101,Excellent customer service and quick resolution.,Positive
+102,Please confirm whether my order was processed.,Neutral
+103,The product exceeded my expectations.,Positive
+104,I am frustrated with the slow response from support.,Negative
+105,My order has been delayed for over a week and nobody is responding.,Negative
+106,The delivery was much later than promised.,Negative
+107,I received the wrong item in my package.,Negative
+108,Payment failed several times during checkout.,Negative
+109,When will my order be shipped?,Neutral
+110,What payment methods do you accept?,Neutral
+111,Please explain your refund policy.,Neutral
+112,My order has been delayed for over a week and nobody is responding.,Negative
+113,Can you check the tracking details for my package?,Neutral
+114,I am very happy with the product quality.,Positive
+115,Can you check the tracking details for my package?,Neutral
+116,Customer support is not answering my emails.,Negative
+117,Customer support is not answering my emails.,Negative
+118,Everything worked perfectly from purchase to delivery.,Positive
+119,I received the wrong item in my package.,Negative
+120,I received the wrong item in my package.,Negative
+121,The delivery was much later than promised.,Negative
+122,The ordering experience was simple and convenient.,Positive
+123,The delivery was much later than promised.,Negative
+124,The delivery was much later than promised.,Negative
+125,The ordering experience was simple and convenient.,Positive
+126,The delivery was much later than promised.,Negative
+127,Support resolved my issue within minutes.,Positive
+128,My order has been delayed for over a week and nobody is responding.,Negative
+129,My order has been delayed for over a week and nobody is responding.,Negative
+130,The product exceeded my expectations.,Positive
+131,The product exceeded my expectations.,Positive
+132,The product exceeded my expectations.,Positive
+133,Please explain your refund policy.,Neutral
+134,The tracking information is incorrect.,Negative
+135,What payment methods do you accept?,Neutral
+136,Excellent customer service and quick resolution.,Positive
+137,Everything worked perfectly from purchase to delivery.,Positive
+138,I have a question regarding my account.,Neutral
+139,Excellent customer service and quick resolution.,Positive
+140,I received the wrong item in my package.,Negative
+141,The product arrived damaged and unusable.,Negative
+142,I have a question regarding my account.,Neutral
+143,I received the wrong item in my package.,Negative
+144,My order has been delayed for over a week and nobody is responding.,Negative
+145,The product exceeded my expectations.,Positive
+146,The refund process was smooth and fast.,Positive
+147,The product quality is disappointing.,Negative
+148,The product quality is disappointing.,Negative
+149,I have a question regarding my account.,Neutral
+150,The product exceeded my expectations.,Positive
+151,The product quality is disappointing.,Negative
+152,The delivery was much later than promised.,Negative
+153,Thank you for the outstanding support.,Positive
+154,Payment failed several times during checkout.,Negative
+155,The delivery arrived earlier than expected.,Positive
+156,Great communication throughout the delivery process.,Positive
+157,The product exceeded my expectations.,Positive
+158,I am frustrated with the slow response from support.,Negative
+159,Great communication throughout the delivery process.,Positive
+160,I am very happy with the product quality.,Positive
+161,The refund process was smooth and fast.,Positive
+162,What payment methods do you accept?,Neutral
+163,What payment methods do you accept?,Neutral
+164,I would like more information about the product.,Neutral
+165,Excellent customer service and quick resolution.,Positive
+166,The tracking information is incorrect.,Negative
+167,Excellent customer service and quick resolution.,Positive
+168,What payment methods do you accept?,Neutral
+169,Great communication throughout the delivery process.,Positive
+170,I am very happy with the product quality.,Positive
+171,Customer support is not answering my emails.,Negative
+172,The ordering experience was simple and convenient.,Positive
+173,My order has been delayed for over a week and nobody is responding.,Negative
+174,I am very happy with the product quality.,Positive
+175,Great communication throughout the delivery process.,Positive
+176,I received the wrong item in my package.,Negative
+177,Payment failed several times during checkout.,Negative
+178,The delivery was much later than promised.,Negative
+179,I have a question regarding my account.,Neutral
+180,The product arrived damaged and unusable.,Negative
+181,The delivery was much later than promised.,Negative
+182,When will my order be shipped?,Neutral
+183,Excellent customer service and quick resolution.,Positive
+184,The ordering experience was simple and convenient.,Positive
+185,Payment failed several times during checkout.,Negative
+186,My order has been delayed for over a week and nobody is responding.,Negative
+187,The product arrived damaged and unusable.,Negative
+188,The ordering experience was simple and convenient.,Positive
+189,The refund process was smooth and fast.,Positive
+190,Please explain your refund policy.,Neutral
+191,The product exceeded my expectations.,Positive
+192,My order has been delayed for over a week and nobody is responding.,Negative
+193,The product arrived damaged and unusable.,Negative
+194,The product arrived damaged and unusable.,Negative
+195,The delivery was much later than promised.,Negative
+196,The refund process was smooth and fast.,Positive
+197,Excellent customer service and quick resolution.,Positive
+198,The product arrived damaged and unusable.,Negative
+199,The delivery arrived earlier than expected.,Positive
+200,My order has been delayed for over a week and nobody is responding.,Negative
+201,Payment failed several times during checkout.,Negative
+202,What payment methods do you accept?,Neutral
+203,When will my order be shipped?,Neutral
+204,The delivery arrived earlier than expected.,Positive
+205,Support resolved my issue within minutes.,Positive
+206,I received the wrong item in my package.,Negative
+207,Payment failed several times during checkout.,Negative
+208,Can you provide an update on my order status?,Neutral
+209,The delivery arrived earlier than expected.,Positive
+210,I have a question regarding my account.,Neutral
+211,The product quality is disappointing.,Negative
+212,Please confirm whether my order was processed.,Neutral
+213,How can I contact customer support?,Neutral
+214,I received the wrong item in my package.,Negative
+215,How can I contact customer support?,Neutral
+216,I requested a refund but have not received any update.,Negative
+217,Can you provide an update on my order status?,Neutral
+218,The ordering experience was simple and convenient.,Positive
+219,My order has been delayed for over a week and nobody is responding.,Negative
+220,How can I contact customer support?,Neutral
+221,I have a question regarding my account.,Neutral
+222,I requested a refund but have not received any update.,Negative
+223,The product exceeded my expectations.,Positive
+224,Please confirm whether my order was processed.,Neutral
+225,How can I contact customer support?,Neutral
+226,The product arrived damaged and unusable.,Negative
+227,The tracking information is incorrect.,Negative
+228,The product exceeded my expectations.,Positive
+229,The product quality is disappointing.,Negative
+230,Please explain your refund policy.,Neutral
+231,Customer support is not answering my emails.,Negative
+232,I am very happy with the product quality.,Positive
+233,When will my order be shipped?,Neutral
+234,I requested a refund but have not received any update.,Negative
+235,Please confirm whether my order was processed.,Neutral
+236,The product arrived damaged and unusable.,Negative
+237,I would like more information about the product.,Neutral
+238,Customer support is not answering my emails.,Negative
+239,Customer support is not answering my emails.,Negative
+240,Everything worked perfectly from purchase to delivery.,Positive
+241,The product quality is disappointing.,Negative
+242,How can I contact customer support?,Neutral
+243,The tracking information is incorrect.,Negative
+244,Customer support is not answering my emails.,Negative
+245,The refund process was smooth and fast.,Positive
+246,The product arrived damaged and unusable.,Negative
+247,The product exceeded my expectations.,Positive
+248,When will my order be shipped?,Neutral
+249,Please explain your refund policy.,Neutral
+250,Please explain your refund policy.,Neutral
+251,I received the wrong item in my package.,Negative
+252,My order has been delayed for over a week and nobody is responding.,Negative
+253,Please explain your refund policy.,Neutral
+254,I would like more information about the product.,Neutral
+255,Customer support is not answering my emails.,Negative
+256,Great communication throughout the delivery process.,Positive
+257,I would like more information about the product.,Neutral
+258,I would like more information about the product.,Neutral
+259,Can you check the tracking details for my package?,Neutral
+260,My order has been delayed for over a week and nobody is responding.,Negative
+261,Thank you for the outstanding support.,Positive
+262,Support resolved my issue within minutes.,Positive
+263,The product quality is disappointing.,Negative
+264,When will my order be shipped?,Neutral
+265,Please explain your refund policy.,Neutral
+266,Payment failed several times during checkout.,Negative
+267,The product exceeded my expectations.,Positive
+268,The product arrived damaged and unusable.,Negative
+269,Please explain your refund policy.,Neutral
+270,My order has been delayed for over a week and nobody is responding.,Negative
+271,The delivery arrived earlier than expected.,Positive
+272,The refund process was smooth and fast.,Positive
+273,Great communication throughout the delivery process.,Positive
+274,The ordering experience was simple and convenient.,Positive
+275,Payment failed several times during checkout.,Negative
+276,My order has been delayed for over a week and nobody is responding.,Negative
+277,I have a question regarding my account.,Neutral
+278,The refund process was smooth and fast.,Positive
+279,I am very happy with the product quality.,Positive
+280,How can I contact customer support?,Neutral
+281,My order has been delayed for over a week and nobody is responding.,Negative
+282,I need clarification about the warranty.,Neutral
+283,The ordering experience was simple and convenient.,Positive
+284,Great communication throughout the delivery process.,Positive
+285,I would like more information about the product.,Neutral
+286,Payment failed several times during checkout.,Negative
+287,I requested a refund but have not received any update.,Negative
+288,Please confirm whether my order was processed.,Neutral
+289,The product quality is disappointing.,Negative
+290,Support resolved my issue within minutes.,Positive
+291,I requested a refund but have not received any update.,Negative
+292,Thank you for the outstanding support.,Positive
+293,My order has been delayed for over a week and nobody is responding.,Negative
+294,Please confirm whether my order was processed.,Neutral
+295,Thank you for the outstanding support.,Positive
+296,Please confirm whether my order was processed.,Neutral
+297,Payment failed several times during checkout.,Negative
+298,Thank you for the outstanding support.,Positive
+299,The ordering experience was simple and convenient.,Positive
+300,The delivery was much later than promised.,Negative
+301,Customer support is not answering my emails.,Negative
+302,Please confirm whether my order was processed.,Neutral
+303,When will my order be shipped?,Neutral
+304,My order has been delayed for over a week and nobody is responding.,Negative
+305,I am frustrated with the slow response from support.,Negative
+306,The tracking information is incorrect.,Negative
+307,Please explain your refund policy.,Neutral
+308,Please confirm whether my order was processed.,Neutral
+309,I am frustrated with the slow response from support.,Negative
+310,I requested a refund but have not received any update.,Negative
+311,The delivery arrived earlier than expected.,Positive
+312,I need clarification about the warranty.,Neutral
+313,What payment methods do you accept?,Neutral
+314,How can I contact customer support?,Neutral
+315,The ordering experience was simple and convenient.,Positive
+316,Can you check the tracking details for my package?,Neutral
+317,I have a question regarding my account.,Neutral
+318,The delivery was much later than promised.,Negative
+319,The product arrived damaged and unusable.,Negative
+320,Excellent customer service and quick resolution.,Positive
+321,I am very happy with the product quality.,Positive
+322,My order has been delayed for over a week and nobody is responding.,Negative
+323,I requested a refund but have not received any update.,Negative
+324,Great communication throughout the delivery process.,Positive
+325,I am very happy with the product quality.,Positive
+326,What payment methods do you accept?,Neutral
+327,I am very happy with the product quality.,Positive
+328,I need clarification about the warranty.,Neutral
+329,Excellent customer service and quick resolution.,Positive
+330,Support resolved my issue within minutes.,Positive
+331,The product quality is disappointing.,Negative
+332,The refund process was smooth and fast.,Positive
+333,The delivery was much later than promised.,Negative
+334,My order has been delayed for over a week and nobody is responding.,Negative
+335,Great communication throughout the delivery process.,Positive
+336,The ordering experience was simple and convenient.,Positive
+337,Excellent customer service and quick resolution.,Positive
+338,The tracking information is incorrect.,Negative
+339,Payment failed several times during checkout.,Negative
+340,How can I contact customer support?,Neutral
+341,Thank you for the outstanding support.,Positive
+342,Everything worked perfectly from purchase to delivery.,Positive
+343,The refund process was smooth and fast.,Positive
+344,I requested a refund but have not received any update.,Negative
+345,The refund process was smooth and fast.,Positive
+346,I need clarification about the warranty.,Neutral
+347,Excellent customer service and quick resolution.,Positive
+348,I requested a refund but have not received any update.,Negative
+349,The tracking information is incorrect.,Negative
+350,The delivery arrived earlier than expected.,Positive
+351,My order has been delayed for over a week and nobody is responding.,Negative
+352,I requested a refund but have not received any update.,Negative
+353,Can you provide an update on my order status?,Neutral
+354,Thank you for the outstanding support.,Positive
+355,The product exceeded my expectations.,Positive
+356,Payment failed several times during checkout.,Negative
+357,Payment failed several times during checkout.,Negative
+358,I received the wrong item in my package.,Negative
+359,The delivery arrived earlier than expected.,Positive
+360,The tracking information is incorrect.,Negative
+361,Great communication throughout the delivery process.,Positive
+362,Customer support is not answering my emails.,Negative
+363,The product arrived damaged and unusable.,Negative
+364,Payment failed several times during checkout.,Negative
+365,The product arrived damaged and unusable.,Negative
+366,The product exceeded my expectations.,Positive
+367,Can you check the tracking details for my package?,Neutral
+368,Can you provide an update on my order status?,Neutral
+369,The delivery arrived earlier than expected.,Positive
+370,How can I contact customer support?,Neutral
+371,The tracking information is incorrect.,Negative
+372,The product arrived damaged and unusable.,Negative
+373,I requested a refund but have not received any update.,Negative
+374,The delivery was much later than promised.,Negative
+375,The tracking information is incorrect.,Negative
+376,Payment failed several times during checkout.,Negative
+377,When will my order be shipped?,Neutral
+378,I am very happy with the product quality.,Positive
+379,The delivery was much later than promised.,Negative
+380,The product quality is disappointing.,Negative
+381,Can you provide an update on my order status?,Neutral
+382,I am very happy with the product quality.,Positive
+383,Payment failed several times during checkout.,Negative
+384,Thank you for the outstanding support.,Positive
+385,Customer support is not answering my emails.,Negative
+386,Please explain your refund policy.,Neutral
+387,The delivery was much later than promised.,Negative
+388,I need clarification about the warranty.,Neutral
+389,The product exceeded my expectations.,Positive
+390,I have a question regarding my account.,Neutral
+391,Support resolved my issue within minutes.,Positive
+392,I received the wrong item in my package.,Negative
+393,I would like more information about the product.,Neutral
+394,Please confirm whether my order was processed.,Neutral
+395,Can you check the tracking details for my package?,Neutral
+396,Everything worked perfectly from purchase to delivery.,Positive
+397,The refund process was smooth and fast.,Positive
+398,Please explain your refund policy.,Neutral
+399,Thank you for the outstanding support.,Positive
+400,Everything worked perfectly from purchase to delivery.,Positive
+401,Payment failed several times during checkout.,Negative
+402,Please explain your refund policy.,Neutral
+403,What payment methods do you accept?,Neutral
+404,Can you check the tracking details for my package?,Neutral
+405,I would like more information about the product.,Neutral
+406,Thank you for the outstanding support.,Positive
+407,The delivery was much later than promised.,Negative
+408,I am very happy with the product quality.,Positive
+409,When will my order be shipped?,Neutral
+410,I am very happy with the product quality.,Positive
+411,Customer support is not answering my emails.,Negative
+412,I am very happy with the product quality.,Positive
+413,Everything worked perfectly from purchase to delivery.,Positive
+414,Payment failed several times during checkout.,Negative
+415,I am frustrated with the slow response from support.,Negative
+416,Support resolved my issue within minutes.,Positive
+417,What payment methods do you accept?,Neutral
+418,Excellent customer service and quick resolution.,Positive
+419,The tracking information is incorrect.,Negative
+420,I am very happy with the product quality.,Positive
+421,The product arrived damaged and unusable.,Negative
+422,The tracking information is incorrect.,Negative
+423,I requested a refund but have not received any update.,Negative
+424,Can you check the tracking details for my package?,Neutral
+425,The product quality is disappointing.,Negative
+426,Everything worked perfectly from purchase to delivery.,Positive
+427,The delivery arrived earlier than expected.,Positive
+428,I am very happy with the product quality.,Positive
+429,Customer support is not answering my emails.,Negative
+430,I requested a refund but have not received any update.,Negative
+431,Great communication throughout the delivery process.,Positive
+432,Please confirm whether my order was processed.,Neutral
+433,Great communication throughout the delivery process.,Positive
+434,Everything worked perfectly from purchase to delivery.,Positive
+435,I am frustrated with the slow response from support.,Negative
+436,Payment failed several times during checkout.,Negative
+437,The delivery was much later than promised.,Negative
+438,Everything worked perfectly from purchase to delivery.,Positive
+439,The refund process was smooth and fast.,Positive
+440,I requested a refund but have not received any update.,Negative
+441,The product arrived damaged and unusable.,Negative
+442,I requested a refund but have not received any update.,Negative
+443,The product exceeded my expectations.,Positive
+444,Great communication throughout the delivery process.,Positive
+445,Payment failed several times during checkout.,Negative
+446,Can you check the tracking details for my package?,Neutral
+447,I would like more information about the product.,Neutral
+448,I have a question regarding my account.,Neutral
+449,Support resolved my issue within minutes.,Positive
+450,I requested a refund but have not received any update.,Negative
+451,The refund process was smooth and fast.,Positive
+452,The product arrived damaged and unusable.,Negative
+453,Support resolved my issue within minutes.,Positive
+454,I would like more information about the product.,Neutral
+455,The tracking information is incorrect.,Negative
+456,Great communication throughout the delivery process.,Positive
+457,The delivery arrived earlier than expected.,Positive
+458,Can you provide an update on my order status?,Neutral
+459,The tracking information is incorrect.,Negative
+460,The delivery was much later than promised.,Negative
+461,I would like more information about the product.,Neutral
+462,The product exceeded my expectations.,Positive
+463,When will my order be shipped?,Neutral
+464,What payment methods do you accept?,Neutral
+465,I have a question regarding my account.,Neutral
+466,The product quality is disappointing.,Negative
+467,My order has been delayed for over a week and nobody is responding.,Negative
+468,The ordering experience was simple and convenient.,Positive
+469,The delivery was much later than promised.,Negative
+470,I am very happy with the product quality.,Positive
+471,I requested a refund but have not received any update.,Negative
+472,The ordering experience was simple and convenient.,Positive
+473,The delivery was much later than promised.,Negative
+474,How can I contact customer support?,Neutral
+475,I received the wrong item in my package.,Negative
+476,I requested a refund but have not received any update.,Negative
+477,I am frustrated with the slow response from support.,Negative
+478,I received the wrong item in my package.,Negative
+479,Great communication throughout the delivery process.,Positive
+480,Excellent customer service and quick resolution.,Positive
+481,The refund process was smooth and fast.,Positive
+482,What payment methods do you accept?,Neutral
+483,The refund process was smooth and fast.,Positive
+484,I am frustrated with the slow response from support.,Negative
+485,I am frustrated with the slow response from support.,Negative
+486,My order has been delayed for over a week and nobody is responding.,Negative
+487,The ordering experience was simple and convenient.,Positive
+488,Excellent customer service and quick resolution.,Positive
+489,Customer support is not answering my emails.,Negative
+490,Customer support is not answering my emails.,Negative
+491,I requested a refund but have not received any update.,Negative
+492,I am very happy with the product quality.,Positive
+493,I requested a refund but have not received any update.,Negative
+494,Customer support is not answering my emails.,Negative
+495,How can I contact customer support?,Neutral
+496,Great communication throughout the delivery process.,Positive
+497,Support resolved my issue within minutes.,Positive
+498,When will my order be shipped?,Neutral
+499,I would like more information about the product.,Neutral
+500,The delivery was much later than promised.,Negative
